@@ -1,0 +1,7 @@
+C:\Users\PChelper\source\repos\Lab1\task1_1\bin\Debug\task1_1.exe.config
+C:\Users\PChelper\source\repos\Lab1\task1_1\bin\Debug\task1_1.exe
+C:\Users\PChelper\source\repos\Lab1\task1_1\bin\Debug\task1_1.pdb
+C:\Users\PChelper\source\repos\Lab1\task1_1\obj\Debug\task1_1.csprojAssemblyReference.cache
+C:\Users\PChelper\source\repos\Lab1\task1_1\obj\Debug\task1_1.csproj.CoreCompileInputs.cache
+C:\Users\PChelper\source\repos\Lab1\task1_1\obj\Debug\task1_1.exe
+C:\Users\PChelper\source\repos\Lab1\task1_1\obj\Debug\task1_1.pdb
