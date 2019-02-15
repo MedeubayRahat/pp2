@@ -1,0 +1,6 @@
+C:\Users\PChelper\Desktop\Labtar\Lab2\Lab2\task4\obj\Debug\task4.csproj.CoreCompileInputs.cache
+C:\Users\PChelper\Desktop\Labtar\Lab2\Lab2\task4\bin\Debug\task4.exe.config
+C:\Users\PChelper\Desktop\Labtar\Lab2\Lab2\task4\bin\Debug\task4.exe
+C:\Users\PChelper\Desktop\Labtar\Lab2\Lab2\task4\bin\Debug\task4.pdb
+C:\Users\PChelper\Desktop\Labtar\Lab2\Lab2\task4\obj\Debug\task4.exe
+C:\Users\PChelper\Desktop\Labtar\Lab2\Lab2\task4\obj\Debug\task4.pdb

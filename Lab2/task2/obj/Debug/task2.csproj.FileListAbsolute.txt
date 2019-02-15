@@ -1,0 +1,6 @@
+C:\Users\PChelper\Desktop\Labtar\Lab2\Lab2\task2\bin\Debug\task2.exe.config
+C:\Users\PChelper\Desktop\Labtar\Lab2\Lab2\task2\bin\Debug\task2.exe
+C:\Users\PChelper\Desktop\Labtar\Lab2\Lab2\task2\bin\Debug\task2.pdb
+C:\Users\PChelper\Desktop\Labtar\Lab2\Lab2\task2\obj\Debug\task2.csproj.CoreCompileInputs.cache
+C:\Users\PChelper\Desktop\Labtar\Lab2\Lab2\task2\obj\Debug\task2.exe
+C:\Users\PChelper\Desktop\Labtar\Lab2\Lab2\task2\obj\Debug\task2.pdb
