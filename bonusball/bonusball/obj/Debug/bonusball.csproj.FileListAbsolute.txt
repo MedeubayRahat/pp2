@@ -1,0 +1,10 @@
+C:\Users\PChelper\source\repos\bonusball\bonusball\bin\Debug\bonusball.exe.config
+C:\Users\PChelper\source\repos\bonusball\bonusball\bin\Debug\bonusball.exe
+C:\Users\PChelper\source\repos\bonusball\bonusball\bin\Debug\bonusball.pdb
+C:\Users\PChelper\source\repos\bonusball\bonusball\obj\Debug\bonusball.csprojAssemblyReference.cache
+C:\Users\PChelper\source\repos\bonusball\bonusball\obj\Debug\bonusball.Form1.resources
+C:\Users\PChelper\source\repos\bonusball\bonusball\obj\Debug\bonusball.Properties.Resources.resources
+C:\Users\PChelper\source\repos\bonusball\bonusball\obj\Debug\bonusball.csproj.GenerateResource.cache
+C:\Users\PChelper\source\repos\bonusball\bonusball\obj\Debug\bonusball.csproj.CoreCompileInputs.cache
+C:\Users\PChelper\source\repos\bonusball\bonusball\obj\Debug\bonusball.exe
+C:\Users\PChelper\source\repos\bonusball\bonusball\obj\Debug\bonusball.pdb
